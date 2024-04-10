@@ -1,0 +1,39 @@
+* {
+   box-sizing: border-box;
+
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 30px 30px 200px 30px;
+    padding: 0;
+    border: 3px solid black;
+    
+}
+
+.circle {
+    border: 5px solid yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 90%;
+    
+}
+
+
+
+button {
+    height: 55px;
+    width: 210px;
+    border-radius: 40px;
+    background-color: #D7514F;
+    color: white;
+    border-color: black;
+    position: absolute;
+    top: 110%;
+    left: 45%;
+    font-size: 16px;
+
+//     text-align: center;
+    
+}
